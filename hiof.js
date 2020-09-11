@@ -1,3 +1,3 @@
-
 console.log("hioff");
-//test
+//test 
+console.log("tester om dette funker");
